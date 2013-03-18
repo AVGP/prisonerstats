@@ -5,7 +5,7 @@
 
 from scrapy.item import Item, Field
 
-class BOPItem(Item):
+class InmateItem(Item):
     # define the fields for your item here like:
     # name = Field()
     age = Field()
